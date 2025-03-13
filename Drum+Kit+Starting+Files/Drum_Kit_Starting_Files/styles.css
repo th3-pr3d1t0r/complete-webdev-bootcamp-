@@ -17,30 +17,38 @@ footer {
 }
 
 .w {
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/crash.png);
 
 }
 
 .a {
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/kick.png);
 
 }
 
 .s {
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/snare.png);
 
 }
 
 .d {
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/tom1.png);
 
 }
 
 .j {
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/tom2.png);
 
 }
 
 .k {
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/tom3.png);
 
 }
 
 .l {
+  
+  background-image: url(/Drum+Kit+Starting+Files/Drum_Kit_Starting_Files/images/tom4.png);
 
 }
 
