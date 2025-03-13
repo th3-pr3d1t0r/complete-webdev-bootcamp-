@@ -1,5 +1,8 @@
 document.querySelector("button").addEventListener("click",handleClicks)
 
 function handleClicks(){
-    alert("i have been licked")
-}//what is the capital
+    var audio = new Audio("/Drum+Kit+Starting+Files/Drum Kit Starting Files/sounds/crash.mp3");
+    audio.play(); 
+
+
+}
