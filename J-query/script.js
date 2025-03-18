@@ -2,10 +2,9 @@
 // isted of using querySelector("h1") we can write 
 
 
-
+                    
 
                                                          //       $("h1").css("color","red");
-
 
 
 
