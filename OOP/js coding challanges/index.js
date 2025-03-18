@@ -31,5 +31,4 @@ function visibleDiv(){
 
 
 document.querySelector("ul")
-
-
+ 

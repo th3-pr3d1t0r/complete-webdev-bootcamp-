@@ -86,3 +86,6 @@ function handleClicks(){
 
 }
     */
+// in ordert to change the class of ahtml element you are to select the element using the id or query selector and you are to use the ".classlist" function
+// to display the currrent class it belongs to and once you do that you can change the class with the ".classlist.add("class to be added")" fuction
+
