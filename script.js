@@ -62,8 +62,6 @@ function fibonacciGenerator (n) {
                                                            
          var x = [0,1];
          n = n - x.length;
-        
-        //Write your code here:
         for(var i = 0; i<n; i++){
            
             var b = x[i] + x[i+1];
@@ -77,15 +75,6 @@ function fibonacciGenerator (n) {
 
         }
         return a ;
-       
-        
-        
-        
-        
-        
-        
-        
-        //Return an array of fibonacci numbers starting from 0.
         
     //Do NOT change any of the code below 👇
     }
